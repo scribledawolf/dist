@@ -17,7 +17,7 @@ footer {
 }
 
 nav {
-  background-color: green;
+  
 }
 
 section {
@@ -110,7 +110,7 @@ a:visited {
 }
 
 a:hover {
-
+   color: green;
 }
 
 a:active {
