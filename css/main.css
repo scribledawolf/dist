@@ -102,7 +102,7 @@ img  {
 /*** link styles ***/
 
 a:link {
-
+   color: darkblue; 
 }
 
 a:visited {
